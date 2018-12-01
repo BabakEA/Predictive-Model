@@ -2,7 +2,12 @@
 
 Create a recommender system to predict class label - R Proggramming , random forest classifier, oversampling
 
+############################################################################################################
 
+Project File : Scotia_Bnak_New.r  # new updated 
+               Scotia_Bank.r      # old version including all reporting and monitoring lines
+
+#############################################################################################################
 Scotia Bank Prediction Model:
 Create a recommender system to predict class label
 Installing the python libraries
