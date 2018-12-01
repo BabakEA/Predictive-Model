@@ -5,10 +5,13 @@ Create a recommender system to predict class label - R Proggramming , random for
 ###########################################################################################
 
 
-Project File : Scotia_Bnak_New.r  # new updated 
+Project File : 
 
 
-               Scotia_Bank.r      # old version including all reporting and monitoring lines
+               Scotia_Bnak_New.r    # new updated 
+
+
+               Scotia_Bank.r        # old version including all reporting and monitoring lines
 
 
 ###########################################################################################
