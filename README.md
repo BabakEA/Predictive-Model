@@ -126,7 +126,9 @@ fail	pass	predict	observed
 
 
 Pass, Fail: The probability of 1 = pass and fail = o,  predicted by the model 
+
 Predict: the class label, predicted by the model
+
 Observed: created from the given probability list 
 
 
