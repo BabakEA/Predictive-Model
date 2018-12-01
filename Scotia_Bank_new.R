@@ -231,7 +231,7 @@ acc=((conclusion$n[1]+conclusion$n[4])/(conclusion$n[1]+conclusion$n[2]+conclusi
 
 acc # print the accuracy of the model 
 
-write.csv(normats,'Scotia_Banak.xlsx')
+write.csv(normats,'Scotia_Banak.csv')
 
 
 
