@@ -8,7 +8,8 @@ library(ggplot2)
 library(caret)
 library(pROC)
 library(ROCR)
-scoti = read.csv('cs-training-Copy.csv',  header = TRUE, sep= ',',  na.strings='NA')
+
+scoti = read.csv('cs-training.csv',  header = TRUE, sep= ',',  na.strings='NA')
 
 newscoti = scoti
 
@@ -173,7 +174,6 @@ normalds.under1$predict<- predict(mod, normalds.under, type="response")
 #calculate the probability of model 
 #probs = predict(mod,normalds[-sub.idx,],type = 'prob')
 
-library(ROCR)
 
 predfaile = prediction(normalds.under1$fail, normalds.under1$SeriousDlqin2yrs)
 predpass = prediction(normalds.under1$pass, normalds.under1$SeriousDlqin2yrs)
