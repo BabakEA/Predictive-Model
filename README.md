@@ -109,7 +109,6 @@ write.csv(normats,'Scotia_Banak.csv')
 
 
 
-
  Future work:
 In this project I omitted all NA values to reduce the complexity of model. 
 To deal with NA we can replace the NA with:
