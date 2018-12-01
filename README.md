@@ -109,6 +109,7 @@ write.csv(normats,'Scotia_Banak.csv')
 write.csv(normats,'Scotia_Banak.csv')
 
 fail	pass	predict	observed
+
 0.88	0.12	0	        0
 0.92	0.08	0	        0
 1   	0   	0	        0
