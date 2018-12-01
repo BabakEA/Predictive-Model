@@ -12,7 +12,7 @@ library(ROSE)
 library(xlsx)
 
 
-scoti = read.csv('cs-training-Copy.csv',  header = TRUE, sep= ',',  na.strings='NA')
+scoti = read.csv('cs-training.csv',  header = TRUE, sep= ',',  na.strings='NA')
 newscoti = scoti
 newscoti$age[newscoti$age <10 ]= NA
 newscoti$RevolvingUtilizationOfUnsecuredLines[newscoti$RevolvingUtilizationOfUnsecuredLines >3 ]= NA
