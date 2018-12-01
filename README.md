@@ -9,6 +9,7 @@ Installing the python libraries
 •	install.packages(c('lattice','ggplot2','randomForest','caret', 'ROSE’)
 
 Call the library : 
+
 •	library(dplyr)
 •	library(lattice)
 •	library(randomForest)
@@ -17,6 +18,7 @@ Call the library :
 •	library(ROSE)
 
 Objectives:
+
 	Data Normalization :
 o	Noise reduction: To reduce the complexity of the Model 
 o	Data Balancing :Use the balancing technique to produce relevant models and data results
@@ -36,6 +38,7 @@ In this case I eliminated outlier recorded to the separated Database named Noise
 Data Normalization :
 
 NumberOfTimes90DaysLate
+
  Min.   : 0.0000        
  1st Qu.: 0.0000        
  Median : 0.0000        
@@ -46,6 +49,7 @@ NumberOfTimes90DaysLate
        
  
 NumberRealEstateLoansOrLines
+
  Min.   : 0.000              
  1st Qu.: 0.000              
  Median : 1.000              
@@ -56,6 +60,7 @@ NumberRealEstateLoansOrLines
        
  
 NumberOfTime60.89DaysPastDueNotWorse
+
  Min.   : 0.00000                    
  1st Qu.: 0.00000                    
  Median : 0.00000                    
