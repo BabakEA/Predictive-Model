@@ -7,8 +7,13 @@ Create a recommender system to predict class label - R Proggramming , random for
 
 Project File : 
 
+               Scotia_Bank_Logistic_regression.r    # new updated  Sunday Dec-2 : Analysis with Logistic regression
+               
 
-               Scotia_Bnak_New.r    # new updated 
+
+
+              
+              Scotia_Bnak_New.r    # new updated Satarday-Dec1
 
 
                Scotia_Bank.r        # old version including all reporting and monitoring lines
@@ -149,6 +154,36 @@ Pass, Fail: The probability of 1 = pass and fail = o,  predicted by the model
 Predict: the class label, predicted by the model
 
 Observed: created from the given probability list 
+
+
+###################################################################
+
+New update :Update Sunday, December 2, 2018
+
+
+
+Analysis with Logistic regression:
+
+To analyze the probability of the test dataset, and evaluate the classification’s result, I used the Logistic regression (GLM) algorithm to analyze the regression results with the dataset probability. 
+
+
+Steps:
+
+Data Normalization, Data preparation and noise reduction
+
+Evaluating the training dataset using confusion matrix and ROC graph, 
+
+Creating the model name Logit to predict the probability for the training dataset
+
+Analyzing the explore vector against the submitted probability 
+
+
+Model Name : Scotia_Bank_Logistic_regression.R
+
+
+##############################################################################
+
+
 
 
 
