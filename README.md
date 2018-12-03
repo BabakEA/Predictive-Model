@@ -7,13 +7,10 @@ Create a recommender system to predict class label - R Proggramming , random for
 
 Project File : 
 
-               Scotia_Bank_Logistic_regression.r    # new updated  Sunday Dec-2 : Analysis with Logistic regression
+              Scotia_Bank_Logistic_regression.r    # new updated  Sunday Dec-2 : Analysis with Logistic regression
                
-
-
-
-              
-              Scotia_Bnak_New.r    # new updated Satarday-Dec1
+             
+              Scotia_Bnak_New.r    # new updated Saturday-Dec1
 
 
                Scotia_Bank.r        # old version including all reporting and monitoring lines
